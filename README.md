@@ -7,6 +7,4 @@ https://www.youtube.com/watch?v=TlB_eWDSMt4
 <br />
 Open folder with Visual Studio code
 run in cmd:
-
-C:\Projects\nodejs\01-first-app>node app.js
-
+node app.js
